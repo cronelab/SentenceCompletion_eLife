@@ -1,9 +1,9 @@
 # SentenceCompletion_eLife
 
-##Manuscript title: 
+## Manuscript title: 
 Causal language network dynamics play a role in lexical selection: an intracranial EEG study
 
-###First Author: Yujing Wang
+### First Author: Yujing Wang
 
 
 This repository contains data from a journal publication in eLife.
